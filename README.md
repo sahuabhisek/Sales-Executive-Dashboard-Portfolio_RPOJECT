@@ -1,171 +1,100 @@
-# Sales-Executive-Dashboard-Portfolio_RPOJECT
-Sales Performance Analysis using Microsoft Power BI and Excel
-# 📊 Sales Executive Dashboard — Power BI
+# 👋 Hi, I'm an Aspiring Data Analyst!
 
-## 1. Project Overview
+📊 Welcome to my Data Analytics Portfolio!
 
-This project focuses on sales performance analysis and visualization using Microsoft Power BI.
+I am developing my practical skills in data analysis, business reporting, and data visualization through hands-on projects using SQL, Microsoft Excel, and Power BI.
 
-The dashboard uses interactive visuals to help users explore sales-related metrics and compare performance across different business dimensions.
+My goal is to transform raw data into meaningful insights that support better business decisions.
 
-## 2. Project Objectives
+## 🛠️ Technical Skills
 
-- Present important sales metrics in a visual dashboard.
-- Compare performance across business categories.
-- Explore sales patterns and distributions.
-- Provide interactive filtering for data exploration.
-- Improve the presentation of sales information for business reporting.
+- **SQL:** PostgreSQL, SELECT, WHERE, JOINs, GROUP BY, HAVING, Aggregate Functions
+- **Microsoft Excel:** PivotTables, Data Analysis, Sales Reporting, Dashboards
+- **Power BI:** Data Visualization, Interactive Dashboards, KPI Cards, Slicers
+- **Data Analytics:** Data Exploration, Business Analysis, Reporting
 
-## 3. Tools & Technologies
+## 📂 My Projects
 
-- Microsoft Power BI
-- Power BI Report Visuals
-- Interactive Slicers
-- Data Visualization
+### 1. 📚 Online Book Store SQL Project
 
-## 4. Dashboard Components
+**Tool:** PostgreSQL
 
-The Power BI report contains the following visual types:
+**Project Overview:**
 
+Analyzed an online bookstore database containing Books, Customers, and Orders tables.
+
+**Key Areas:**
+- Book price and genre analysis
+- Customer order analysis
+- Revenue-related SQL queries
+- Popular books and author analysis
+- Inventory and remaining stock analysis
+
+**Skills Demonstrated:** SQL queries, JOINs, aggregate functions, GROUP BY, HAVING, filtering, and sorting.
+
+🔗 **Project Repository:** [Add Your Online Book Store SQL Project Link Here]
+
+---
+
+### 2. 📊 Sales Executive Dashboard — Power BI
+
+**Tool:** Microsoft Power BI
+
+**Project Overview:**
+
+Developed a sales-oriented dashboard using Power BI report visuals to explore and present business information.
+
+**Dashboard Components:**
 - KPI Card
-- Line and Clustered Column Combo Chart
 - Clustered Bar Chart
+- Line and Clustered Column Combo Chart
 - 100% Stacked Bar Chart
 - Funnel Chart
 - Pie Chart
 - Scatter Chart
 - Interactive Slicers
 
-## 5. Business Applications
+**Skills Demonstrated:** Dashboard design, data visualization, interactive reporting, and sales performance reporting.
 
-The dashboard structure can support sales performance monitoring, category comparisons, distribution analysis, and exploration of relationships between numerical metrics.
+🔗 **Project Repository:** [Add Your Power BI Project Link Here]
 
-Specific business findings should be documented after validating the fields, filters, and results displayed in each visual.
+---
 
-## 6. Project File
+### 3. 📈 Sales Executive Dashboard — Excel
 
-- `POWERBI.SALES.EXECUTIVE.DASHBORD.pbix` — Power BI report file.
-- `Dashboard-Screenshot.png` — Dashboard preview image, if included.
+**Tool:** Microsoft Excel
 
-## 7. How to Open the Project
+**Project Overview:**
 
-1. Install Microsoft Power BI Desktop.
-2. Download the `.pbix` file from this repository.
-3. Open the file in Power BI Desktop.
-4. If prompted, review the data source settings and update any required connections.
-5. Explore the report visuals and slicers.
+Worked with a sales dataset containing 2,707 records and 20 columns, covering products, customers, regions, sales channels, revenue, costs, and gross profit.
 
-## 8. Skills Demonstrated
-
-- Power BI report development
-- Data visualization
-- Interactive report design
-- Sales performance reporting
-- Dashboard presentation
-
-## 9. Author
-
-Data Analyst Portfolio Project
-
-# 📈 Sales Executive Dashboard — Excel
-
-## 1. Project Overview
-
-This project focuses on analyzing sales data and presenting business information using Microsoft Excel.
-
-The workbook contains three worksheets: PIVOT_TABLE, ROW_DATA, and DASHBORD. The raw data includes 2,707 sales records and 20 columns covering order dates, products, regions, sales channels, customers, revenue, costs, and profitability.
-
-## 2. Project Objectives
-
-- Analyze sales revenue and gross profit.
-- Explore monthly sales performance.
-- Compare sales across regions and countries.
-- Evaluate sales channel performance.
-- Analyze customer types and product categories.
-- Organize raw sales data for business reporting.
-
-## 3. Tools & Technologies
-
-- Microsoft Excel
-- PivotTables
-- Sales Data Analysis
-- Dashboard Reporting
-
-## 4. Dataset Overview
-
-The dataset contains the following business fields:
-
-- Order Date
-- Region
-- Country
-- Sales Channel
-- Customer Type
-- Product Category
-- Product
-- Units Sold
-- Unit Price
-- Discount %
-- Unit Cost
-- Revenue
-- COGS
-- Gross Profit
-- Gross Margin %
-- Year
-- Quarter
-- MonthNo
-- Month
-
-## 5. Workbook Structure
-
-### ROW_DATA
-Contains the underlying sales records used for analysis.
-
-### PIVOT_TABLE
-Contains summarized sales information, including monthly revenue and gross profit, country-wise revenue, region-wise revenue, and sales channel-wise revenue.
-
-### DASHBORD
-Intended as the dashboard worksheet for presenting the sales analysis visually.
-
-## 6. Analysis Areas
-
-- Revenue and profitability analysis
-- Monthly sales trends
-- Regional sales comparison
-- Country-level sales performance
+**Key Analysis Areas:**
+- Revenue and gross profit analysis
+- Monthly sales analysis
+- Region-wise and country-wise sales
 - Sales channel comparison
-- Customer type analysis
-- Product and category analysis
-
-## 7. How to Use the Workbook
-
-1. Download the Excel workbook.
-2. Open it in Microsoft Excel.
-3. Review the ROW_DATA worksheet.
-4. Review the summaries in PIVOT_TABLE.
-5. Open DASHBORD to inspect the dashboard.
-6. Refresh PivotTables when appropriate and validate the results before reporting findings.
-
-## 8. Skills Demonstrated
-
-- Data organization
-- Sales analysis
+- Product and customer analysis
 - PivotTable-based reporting
-- Business metric analysis
-- Dashboard development
 
-## 9. Project File
+**Skills Demonstrated:** Excel data analysis, PivotTables, business reporting, and dashboard development.
 
-- `SALES.EXCECUTIVE.DASHBORD.xlsx` — Excel sales analysis workbook.
-- `Dashboard-Screenshot.png` — Dashboard preview image, if included.
+🔗 **Project Repository:** [Add Your Excel Project Link Here]
 
-## 10. Author
+---
 
-Data Analyst Portfolio Project
+## 🎯 Career Objective
 
-## 11. Disclaimer
+I am working toward a Data Analyst career by strengthening my technical skills and building practical projects that demonstrate my ability to analyze data and communicate business information.
 
-This project is shared for learning and portfolio purposes. Reported figures should be validated against refreshed PivotTables and the underlying data before business use.
+I am eager to continue learning, improve my analytical thinking, and apply my skills to real-world business problems.
 
-## 10. Disclaimer
+## 📫 Connect With Me
 
-This project is shared for learning and portfolio purposes. Business findings should be based on the actual report data and validated calculations.
+- **LinkedIn:** [Add Your LinkedIn Profile Link]
+- **GitHub:** [Add Your GitHub Profile Link]
+
+---
+
+⭐ Thank you for visiting my portfolio!
+
+I welcome feedback and suggestions that can help me improve my data analytics skills and projects.
